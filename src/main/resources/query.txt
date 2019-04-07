@@ -1,0 +1,24 @@
+// Query all Persons
+{
+  allPersons {
+    firstname
+    lastname
+    age
+    addresses{
+    	street
+    	zip
+    	city
+    }
+  }
+}
+// Query single person
+{
+  person(id: "1") {
+    firstname
+    lastname
+    addresses{
+      street
+      city
+    }
+  }
+}

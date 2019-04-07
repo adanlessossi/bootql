@@ -1,0 +1,5 @@
+insert into person(id,firstname, lastname,age) values (1, 'Jeff', 'Besos', 52)
+insert into person(id,firstname, lastname,age) values (2, 'Elon', 'Musk', 43)
+insert into person(id,firstname, lastname,age) values (3, 'Joseph', 'Ma', 54)
+insert into person(id,firstname, lastname,age) values (4, 'Bill', 'Gates', 69)
+insert into person(id,firstname, lastname,age) values (5, 'Mark', 'Zuckerberg', 37)
